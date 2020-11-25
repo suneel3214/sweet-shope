@@ -1,0 +1,58 @@
+.moving-slide{
+               text-align: center;
+               color: #fff;
+               background-color: #c9ac6a;
+               margin-bottom: 0;
+               font-size: 14px;
+               font-weight: 600;
+               height: 35px;
+               padding-top: 7px;
+
+         
+            }
+        
+        .navbar
+			{
+			   background-color: #b22137;
+			   padding: 0;
+			}
+		.navbar-brand img
+			{
+				height: 40px;
+				padding-left: 20px;
+				border-radius: 65%;
+			}
+
+		.navbar-toggler
+			{
+				outline: none !important;			
+		    }	
+
+		.fa-bars
+			{
+				color: #fff;
+				font-size: 30px !important;
+			}  
+			 
+		.navbar-nav li
+			{
+				padding: 0 10px;
+			}
+		.navbar-nav li a
+			{
+				color: #fff!important;
+				font-weight: 600;
+				float: left;
+				text-align: left;
+
+			}
+	    li a:hover{
+				color: red;
+			}
+
+		.slide{
+            	padding-right: 0px;
+            	padding-left: 0px;
+            	padding-top: 10px;
+            }
+           
