@@ -63,7 +63,16 @@
 				font-size: 30px;
 				font-weight: 600;
 				margin-top: 100px;
-			}
+        font-family: 'Lobster', cursive;
+        text-shadow: 5px 7px 5px #8e0f06;
+        color: cadetblue;
+            }
+    
+    .promo-title2{
+          text-shadow: 5px 7px 5px #423837;
+          line-height: 45px;
+    } 
+			
 
 		.img-fluid{
 			border-radius: 50%;
@@ -76,6 +85,8 @@
 		.title{
 			color: #fbbd06;
 			margin-bottom: 20px;
+      font-family: 'Lobster', cursive;
+      text-shadow: 5px 7px 5px #8e0f06;
 		   }
          
         .services h4{
@@ -106,6 +117,8 @@
         
         .text-color{
 		   	color: red;
+        text-shadow: 5px 7px 5px #068e3b;
+        font-family: 'Dancing Script', cursive;
 		  }
 
 

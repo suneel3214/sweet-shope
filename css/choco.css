@@ -106,7 +106,14 @@
 			color: #fbbd06;
 			margin-top: 25px;
 			font-family: 'Permanent Marker', cursive;
+      text-shadow: 5px 7px 5px #8e0f06;
+   
 			}
+
+      .heading2{
+        text-shadow: 5px 7px 5px #8e1106;
+        font-family: 'Dancing Script', cursive;
+      }
 
 			.img2{
 				padding-top: 20px;
