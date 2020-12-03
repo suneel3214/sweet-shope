@@ -67,9 +67,9 @@
 
 		.promo-title
 			{
-				font-size: 30px;
+				font-size: 25px;
 				font-weight: 600;
-				margin-top: 100px;
+				margin-top: 20px;
         font-family: 'Lobster', cursive;
         text-shadow: 5px 7px 5px #8e0f06;
         color: cadetblue;
@@ -106,6 +106,7 @@
 			box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 			height: 300px;
 			width: 100%;
+      border-radius: 50%;
 		   }
         
         .fixed{
@@ -123,7 +124,7 @@
           }  
         
         .text-color{
-		   	color: red;
+		   	color: black;
         text-shadow: 5px 7px 5px #068e3b;
         font-family: 'Dancing Script', cursive;
 		  }
