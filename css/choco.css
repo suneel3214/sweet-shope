@@ -49,6 +49,22 @@
 			 li a:hover{
 				color: red;
 			}
+      nav .btn1{
+        color: #fff!important;
+        font-weight: 600;
+        font-size: 15px;
+        background-color: orange;
+        margin-right: 20px;
+        border-style: none;
+        border-radius: inherit;
+        margin-top: 13px;
+        border-radius: 5%;
+      }
+            .img{
+        border-radius: 50%;
+        padding-top: 10px;
+        
+      }
             .slide{
             	padding-right: 0px;
             	padding-left: 0px;
@@ -59,11 +75,7 @@
 			 margin-top: 20px;
 			}
 
-			.img{
-				border-radius: 50%;
-				padding-top: 10px;
-				
-			}
+			
 			.paragraph{
 				        word-spacing: 2px;
                 padding-top: 25px;
@@ -92,6 +104,20 @@
 				font-family: 'Lobster', cursive;
 				margin-top: 15px;
 			}
+
+       .heading{
+              padding-top: 20px;
+              font-family: 'Lobster', cursive;
+                text-shadow: 5px 7px 5px #8e0f06;
+                color: cadetblue;
+            }
+           .paragraph{
+              line-height: 2;
+                padding-top: 10px;
+                word-spacing: 5px;
+                text-align: justify;
+                font-family: 'Teko', sans-serif;
+           }
 
 			.btn{
 				background-color: #d4b1bf;

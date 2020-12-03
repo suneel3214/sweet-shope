@@ -50,12 +50,20 @@
 				color: red;
 			}
 
-		.slide{
+		       .slide{
             	padding-right: 0px;
             	padding-left: 0px;
             	padding-top: 10px;
             }
            
+           .btn{
+               color: #fff!important;
+               font-weight: 600;
+               font-size: 15px;
+               background-color: orange;
+               margin-right: 20px;
+           }  
+
            .img{
            	    width: 100%;
                 padding-top: 20px;
@@ -113,7 +121,7 @@
 
            .last-img{
            	box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-		    width: 100%;
+		        width: 100%;
             height: 205px;
             margin-top: 25px;
             margin-bottom: 25px;

@@ -49,6 +49,13 @@
 			 li a:hover{
 				color: red;
 			}
+      .btn{
+        color: #fff!important;
+        font-weight: 600;
+        font-size: 15px;
+        background-color: orange;
+        margin-right: 20px;
+      }
 	    
 		.banner{
 			background-image:linear-gradient(to right,#bb4f4d,#ff9800);
@@ -242,3 +249,5 @@
             margin-top: 0px;
             margin-bottom: 0rem;
           }
+
+          
